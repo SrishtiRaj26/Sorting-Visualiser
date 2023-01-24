@@ -1,8 +1,8 @@
 body{
-    background-color: #010101 !important;
+    background-color: hwb(0 43% 57%) !important;
 }
 .heading{
-    color: #acdbdf;
+    color: hsl(185, 66%, 74%);
     text-align: center;
     font-family: 'Libre Baskerville', serif;
     margin-top: 40px;
